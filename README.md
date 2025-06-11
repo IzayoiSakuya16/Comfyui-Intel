@@ -1,6 +1,6 @@
-# 🩸 ComfyUI for Intel Arc（红魔馆之主制作）🩸
+# 🩸 ComfyUI for Intel Arc（红魔馆的主人制作）🩸
 
-**在你的 Intel Arc GPU 上释放 ComfyUI 的强大功能！** 
+**在你的 Intel Arc GPU 上运行 ComfyUI ！** 
 
 ---
 
